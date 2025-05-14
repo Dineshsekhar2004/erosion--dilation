@@ -11,8 +11,8 @@ To implement Erosion and Dilation using Python and OpenCV.
 - Step4: Next,perform dilation for inout text and display the result
 ## Program:
 ```
-DEVELOPED BY: DINESH KUMAR R
-REGISTER NUMBER: 212222110010
+DEVELOPED BY: DINESH S
+REGISTER NUMBER: 212222230033
 ```
 ### Import the necessary packages
 ```python
